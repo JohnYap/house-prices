@@ -9,7 +9,7 @@ The dataset consists of 1460 observations (or examples) and over 70 explanatory 
 We explore three different prediction models:
 
 1. Multiple Linear Regression
-2. Tree-based models: Regression Tree, Random Forests, Boosted Trees
+2. Tree-based models: Regression Tree, Random Forests, and Boosted Trees
 3. Neural Networks
 
 The goal is to compare the performance of these three models.  Multiple linear regression can be considered as the baseline model.  A regression tree is typically used when a more complex, non-linear model is desired.  Random Forests and Boosted Trees create a better prediction model than a single regression tree by using an ensemble or sequence of trees.  Like tree-based models, neural networks is also used to model complex non-linear relationships, but it is more commonly used in classification problems involving big data.         
